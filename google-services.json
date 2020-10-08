@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "779026260085",
+    "firebase_url": "https://mlfacey.firebaseio.com",
+    "project_id": "mlfacey",
+    "storage_bucket": "mlfacey.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779026260085:android:c5e9776c19ce39fedcd83c",
+        "android_client_info": {
+          "package_name": "in.mangaldeep88"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779026260085-qti0lautc47n557ge51ettmnucpkpoau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_FZOsG0FN647MBTWWWv9GS0SkUDe7hTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779026260085-qti0lautc47n557ge51ettmnucpkpoau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
